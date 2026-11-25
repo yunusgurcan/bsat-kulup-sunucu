@@ -1,0 +1,8 @@
+Nov 25 13:42:19 DESKTOP-P1QTO1T systemd[1]: Stopping nginx.service - A high performance web server and a reverse proxy server...
+Nov 25 13:42:19 DESKTOP-P1QTO1T systemd[1]: nginx.service: Deactivated successfully.
+Nov 25 13:42:19 DESKTOP-P1QTO1T systemd[1]: Stopped nginx.service - A high performance web server and a reverse proxy server.
+Nov 25 13:42:19 DESKTOP-P1QTO1T systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
+Nov 25 13:42:19 DESKTOP-P1QTO1T systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
+::1 - - [25/Nov/2026:14:17:08 +0300] "HEAD / HTTP/1.1" 200 0 "-" "curl/8.18.0"
+::1 - - [25/Nov/2026:14:19:25 +0300] "GET / HTTP/1.1" 200 322 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
+::1 - - [25/Nov/2026:14:19:25 +0300] "GET /favicon.ico HTTP/1.1" 404 197 "http://localhost:8071/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
