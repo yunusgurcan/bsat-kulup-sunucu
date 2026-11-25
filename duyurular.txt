@@ -1,0 +1,4 @@
+25 Kasım: Ödev başlangıcı ve ubuntu kurulumu
+9 Aralık: Git ile ekip çalışması semineri
+20 Aralık: Bilişim Kulübü ödevlerin teslimi
+22 Aralık: Yüz yüze kısa sınav
