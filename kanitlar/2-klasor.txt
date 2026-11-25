@@ -1,0 +1,2 @@
+drwxrwxr-x 2 yunusgurcan kulup 4096 Nov 25 13:29 /srv/kulup
+kulup:x:1001:yunusgurcan
