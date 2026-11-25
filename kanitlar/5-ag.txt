@@ -1,0 +1,12 @@
+LISTEN 0      511           0.0.0.0:8071      0.0.0.0:*   
+LISTEN 0      511              [::]:8071         [::]:*   
+HTTP/1.1 200 OK
+Server: nginx/1.28.3 (Ubuntu)
+Date: Wed, 25 Nov 2026 11:17:08 GMT
+Content-Type: text/html
+Content-Length: 426
+Last-Modified: Wed, 25 Nov 2026 11:15:01 GMT
+Connection: keep-alive
+ETag: "6b06c335-1aa"
+Accept-Ranges: bytes
+
